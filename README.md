@@ -5,3 +5,4 @@
 - https://www.atlassian.com/software/jira
 - https://www.figma.com/
 - https://github.com/dipucriodigital/engenharia-de-software
+- https://miro.com/miroverse/lean-inception-workshop/
